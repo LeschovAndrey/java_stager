@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+ru/stager/sandbox/MyFirstProgram.java
+ ru.stager.sandbox.MyFirstProgram
