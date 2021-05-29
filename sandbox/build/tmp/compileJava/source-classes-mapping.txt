@@ -1,2 +1,6 @@
 ru/stager/sandbox/MyFirstProgram.java
  ru.stager.sandbox.MyFirstProgram
+ru/stager/sandbox/Rectangle.java
+ ru.stager.sandbox.Rectangle
+ru/stager/sandbox/Square.java
+ ru.stager.sandbox.Square
