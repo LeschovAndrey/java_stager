@@ -1,0 +1,2 @@
+ru/stager/sandbox/SquareTests.java
+ ru.stager.sandbox.SquareTests

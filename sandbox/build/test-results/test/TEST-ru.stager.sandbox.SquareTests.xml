@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stager.sandbox.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-08T21:42:35" hostname="DESKTOP-FR0RTRU" time="0.006">
+  <properties/>
+  <testcase name="testArea" classname="ru.stager.sandbox.SquareTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
